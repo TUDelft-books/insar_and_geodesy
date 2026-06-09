@@ -19,7 +19,7 @@ parts:
         - file: day_one/basics_of_sar_interferometry/notebooks/Notebook_1_interferometry_processing_solution.ipynb
         - file: day_one/basics_of_sar_interferometry/notebooks/Notebook_2_phase_unwrapping_solution.ipynb
         - file: day_one/basics_of_sar_interferometry/notebooks/Notebook_3_S1_timeseries.ipynb
-        - file: day_one/basics_of_sar_interferometry/notebooks/Notebook_4_no_drama.ipynb      
+        - file: day_one/basics_of_sar_interferometry/notebooks/Notebook_4_No_drama.ipynb    
   - caption: Day 2
     chapters:
     - file: day_two/overview.md
