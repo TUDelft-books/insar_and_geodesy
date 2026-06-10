@@ -22,7 +22,9 @@ parts:
         - file: day_one/basics_of_sar_interferometry/notebooks/Solved_Notebook_2_phase_unwrapping.ipynb
         - file: day_one/basics_of_sar_interferometry/notebooks/Notebook_3_S1_timeseries.ipynb
         - file: day_one/basics_of_sar_interferometry/notebooks/Solved_Notebook_3_S1_timeseries.ipynb
-        - file: day_one/basics_of_sar_interferometry/notebooks/Notebook_4_No_drama.ipynb    
+        - file: day_one/basics_of_sar_interferometry/notebooks/Notebook_4_No_drama.ipynb   
+        - file: day_one/basics_of_sar_interferometry/notebooks/Notebook_5_Circular_Gaussian.ipynb 
+        - file: day_one/basics_of_sar_interferometry/notebooks/Solved_Notebook_5_Circular_Gaussian.ipynb
   - caption: Day 2
     chapters:
     - file: day_two/overview.md
