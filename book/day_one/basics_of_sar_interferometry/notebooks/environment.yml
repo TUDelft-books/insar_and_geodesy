@@ -1,0 +1,23 @@
+name: workshop-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - numpy
+  - xarray
+  - matplotlib
+  - scipy
+  - h5netcdf
+  - ipykernel
+  - geopandas
+  - tqdm
+  - contextily
+  - pandas
+  - rasterio
+  - scikit-learn
+  - folium
+  - geopy
+  - pip
+  - pip:
+    - drama
