@@ -19,3 +19,7 @@ name: vangogh
 ---
 
 ```
+
+“Non est ad astra mollis e terris via" - “There is no easy way from the Earth to
+the stars”
+― Seneca
